@@ -6,7 +6,7 @@ const label1 = "Time until May 30, 2025 2:05pm - Last Dismissal for Seniors";
 
 // Target Date 2: Example - One month from the current context date (May 2, 2025 -> June 2, 2025)
 const targetDate2 = new Date("June 23, 2025 02:05:00").getTime();
-const label2 = "Time until une 23, 2025 02:05pm - Last Dismissal for Frosh, Soph & Juniors";
+const label2 = "Time until June 23, 2025 02:05pm - Last Dismissal for Frosh, Soph & Juniors";
 
 // Target Date 3: Example - Start of 2026
 const targetDate3 = new Date("August 27, 2025 07:25:00").getTime();
