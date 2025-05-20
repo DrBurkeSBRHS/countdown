@@ -2,15 +2,15 @@
 
 // Target Date 1: Example - End of the year 2025
 const targetDate1 = new Date("May 30, 2025 02:05:00").getTime();
-const label1 = "Last Day for Seniors";
+const label1 = "Time until May 30, 2025 2:05pm - Last Dismissal for Seniors";
 
 // Target Date 2: Example - One month from the current context date (May 2, 2025 -> June 2, 2025)
 const targetDate2 = new Date("June 23, 2025 02:05:00").getTime();
-const label2 = "Last Day of School";
+const label2 = "Time until une 23, 2025 02:05pm - Last Dismissal for Frosh, Soph & Juniors";
 
 // Target Date 3: Example - Start of 2026
 const targetDate3 = new Date("August 27, 2025 07:25:00").getTime();
-const label3 = "School Begins Again Next Year";
+const label3 = "Time until August 27, 2025 07:25am - '25-'26 School Year Begins";
 
 // Add this line at the very beginning to confirm the script is running
 console.log("script.js started!");
